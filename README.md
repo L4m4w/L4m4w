@@ -1,6 +1,6 @@
 ## Yippee Ki Yay
 
-*🚀 Python Software Development Engineer in Test | AI & Automation Enthusiast *
+#🚀 Python Software Development Engineer in Test | AI & Automation Enthusiast
 🔧 Creating Django SaaS | QA Frameworks Architect
 🤖 Creator of open-source testing tools  
 📝 Author of technical articles and manuals  
