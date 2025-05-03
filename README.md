@@ -1,16 +1,19 @@
-## Hi there 👋
+## Yippee Ki Yay
 
-<!--
-**L4m4w/L4m4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🚀 Python Software Development Engineer in Test | AI & Automation Enthusiast *
+🔧 Creating Django SaaS | QA Frameworks Architect
+🤖 Creator of open-source testing tools  
+📝 Author of technical articles and manuals  
+🚀 Contributing to the community through open-source  
+💡 Believer in automation and clean code power
+📫 How to reach me: l4p41@#yandex.com
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=L4m4w&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=L4m4w&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=L4m4w&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=L4m4w&icon=1&color=3)](https://visitcount.itsvg.in)
+
+
